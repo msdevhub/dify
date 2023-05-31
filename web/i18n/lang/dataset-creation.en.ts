@@ -55,6 +55,7 @@ const translation = {
     separator: 'Segment identifier',
     separatorPlaceholder: 'For example, newline (\\\\n) or special separator (such as "***")',
     maxLength: 'Maximum segment length',
+    overlap: 'Overlap',
     rules: 'Text preprocessing rules',
     removeExtraSpaces: 'Replace consecutive spaces, newlines and tabs',
     removeUrlEmails: 'Delete all URLs and email addresses',

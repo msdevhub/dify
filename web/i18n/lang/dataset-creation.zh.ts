@@ -55,6 +55,7 @@ const translation = {
     separator: '分段标识符',
     separatorPlaceholder: '例如换行符（\n）或特定的分隔符（如 "***"）',
     maxLength: '分段最大长度',
+    overlap: 'Overlap',
     rules: '文本预处理规则',
     removeExtraSpaces: '替换掉连续的空格、换行符和制表符',
     removeUrlEmails: '删除所有 URL 和电子邮件地址',
